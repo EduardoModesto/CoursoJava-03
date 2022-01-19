@@ -1,15 +1,16 @@
+
 package Apllication;
 
 import java.util.Scanner;
 
-public class Class03 {
+public class Class03double {
 
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);
 		
-			String x;
-			x = sc.next();
+			double x;
+			x = sc.nextDouble();
 			System.out.println("Voce digitou:" + x);		
 		
 				

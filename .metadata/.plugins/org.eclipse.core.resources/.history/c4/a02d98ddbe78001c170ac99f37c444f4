@@ -14,9 +14,8 @@ public class Class03 {
 		
 				
 		sc.close();
-	
-	
-			
+		
+
 	}
 
 }
